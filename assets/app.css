@@ -1,0 +1,38 @@
+.shadowsl {
+    text-shadow: 1px 1px 1px black;
+  }
+  .ilsvg1 {
+    background-image: linear-gradient(to top, rgba(217, 175, 217, 0.589) 0%, rgba(151, 218, 225, 0.562) 100%), url("../sources/programer.svg");
+    background-repeat: no-repeat;
+   
+  }
+   .ilsvg2 {
+    background-image: linear-gradient(to top, rgba(217, 175, 217, 0.589) 0%, rgba(151, 218, 225, 0.562) 100%);
+  }
+
+  .ilsvg3 {
+    background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
+  }
+
+  .ilsvg4 {
+  background: #4b6cb7; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #4b6cb7, #182848); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #4b6cb7, #182848); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+
+  .ilsvg5 {
+    background-image: linear-gradient(to top, rgba(218, 212, 236, 0.712) 0%, rgba(218, 212, 236, 0.719) 1%, rgba(243, 231, 233, 0.726) 100%), url("../sources/projects3.svg");
+    background-repeat: no-repeat;
+   
+  }
+
+   .ilsvg6 {
+    background-image: linear-gradient(to top, rgba(218, 212, 236, 0.712) 0%, rgba(218, 212, 236, 0.719) 1%, rgba(243, 231, 233, 0.726) 100%), url("../sources/projects4.svg");
+    background-repeat: no-repeat;
+   
+  }
+   .ilsvg7 {
+    background-image: linear-gradient(to top, rgba(218, 212, 236, 0.712) 0%, rgba(218, 212, 236, 0.719) 1%, rgba(243, 231, 233, 0.726) 100%), url("../sources/projects5.svg");
+    background-repeat: no-repeat;
+   
+  }
